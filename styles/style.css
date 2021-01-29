@@ -652,16 +652,8 @@
         letter-spacing: 2px;
     }
     
-    label {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-    }
-    
     button,
     input {
-        width: 50%;
         margin: 20px;
         padding: 10px;
         display: flex;
