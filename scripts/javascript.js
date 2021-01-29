@@ -25,7 +25,7 @@ var options = [
     "You may rely on it.",
 ];
 
-button.addEventListener("click", function() {
+button.addEventListener(type: "click", function() {
     if (input.value.length < 1) {
         alert("Please enter a question!");
     } else {
