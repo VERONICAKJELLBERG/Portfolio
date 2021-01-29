@@ -808,7 +808,8 @@ input {
         width: 100%;
         display: flex;
         flex-flow: wrap;
-        align-items: center;
+        align-items: flex-end;
+        align-content: center;
         justify-content: flex-start;
         flex-direction: column;
         padding: 0;
@@ -850,6 +851,7 @@ input {
         align-items: center;
         width: 43%;
         padding-top: 0%;
+        margin-right: 30px;
     }
     #bokomslag h1 {
         margin-top: 0;
