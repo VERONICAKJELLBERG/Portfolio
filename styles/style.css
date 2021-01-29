@@ -656,7 +656,7 @@
     input {
         margin: 20px;
         padding: 10px;
-        display: flex;
+        display: inline-flex;
         justify-content: center;
         align-content: center;
         border: 1px solid black;
