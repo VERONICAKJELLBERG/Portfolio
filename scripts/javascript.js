@@ -30,8 +30,6 @@ button.addEventListener("click", function() {
         alert("Please enter a question!");
     } else {
         eight.innerText = "";
-        var num = input.value.length % options.length;
-        answer.innerText = options[num];
+        answer.innerText = "answer";
     }
-
 });
