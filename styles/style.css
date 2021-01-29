@@ -835,6 +835,7 @@ input {
     }
     .image_bokomslag {
         display: flex;
+        position: absolute;
         flex-direction: column;
         flex-flow: wrap;
         width: 50%;
