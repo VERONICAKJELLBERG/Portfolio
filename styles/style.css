@@ -652,6 +652,11 @@
         letter-spacing: 2px;
     }
     
+    .label {
+        display: flex;
+        justify-content: center;
+    }
+    
     button,
     input {
         width: 50%;
