@@ -808,7 +808,7 @@ input {
         width: 100%;
         display: flex;
         flex-flow: wrap;
-        align-items: flex-end;
+        align-items: center;
         align-content: center;
         justify-content: flex-start;
         flex-direction: column;
@@ -854,7 +854,7 @@ input {
     }
     #bokomslag h1 {
         margin-top: 0;
-        margin-left: 0%;
+        margin-left: 40px;
     }
     .Etikett {
         width: 80%;
