@@ -652,7 +652,7 @@
         letter-spacing: 2px;
     }
     
-    .label {
+    #label {
         display: flex;
         justify-content: center;
     }
