@@ -859,10 +859,12 @@
                     padding: 10px;
                     margin-left: 0;
                     margin-top: 30px;
+                    margin-bottom: 0;
                 }
                 .Etikett_ {
                     display: flex;
                     flex-direction: row;
                     width: 80%;
+                    margin-top: 0;
                 }
             }
