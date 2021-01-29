@@ -851,6 +851,7 @@ input {
         align-items: center;
         width: 43%;
         padding-top: 0%;
+        padding-bottom: 40px;
     }
     #bokomslag h1 {
         margin-top: 0;
