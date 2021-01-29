@@ -648,7 +648,7 @@ p#eight {
 
 p#answer {
     padding: 25px;
-    color: lightblue;
+    color: rgb(173, 230, 197);
     letter-spacing: 2px;
 }
 
@@ -660,6 +660,7 @@ input {
     justify-content: center;
     align-content: center;
     border: 1px solid black;
+    background: white;
     border-radius: 10px;
     cursor: pointer;
     font-size: 1.2em;
