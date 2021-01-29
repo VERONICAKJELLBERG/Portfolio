@@ -25,7 +25,7 @@ var options = [
     "You may rely on it.",
 ];
 
-var button = dokument.addEventListener("click", function() {
+button.addEventListener("click", function() {
     if (input.value.length < 1) {
         alert("Please enter a question!");
     } else {
