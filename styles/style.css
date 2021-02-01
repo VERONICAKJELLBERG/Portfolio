@@ -653,7 +653,23 @@ p#answer {
     letter-spacing: 2px;
 }
 
-button,
+button {
+    margin: 20px;
+    padding: 10px;
+    display: inline-flex;
+    justify-content: center;
+    align-content: center;
+    border: 1px solid black;
+    background: white;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.2em;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    transition: .5s font-size;
+}
+
 input {
     margin: 20px;
     padding: 10px;
