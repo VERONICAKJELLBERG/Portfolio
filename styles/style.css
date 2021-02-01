@@ -663,7 +663,7 @@ input {
     border: 1px solid black;
     background: white;
     border-radius: 10px;
-    cursor: pointer;
+    cursor: text;
     font-size: 1.2em;
     font-family: 'Fira Sans', sans-serif;
     font-weight: 100;
